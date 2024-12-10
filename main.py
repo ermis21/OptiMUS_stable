@@ -34,7 +34,7 @@ if __name__ == "__main__":
     ERROR_CORRECTION = True
     #MODEL = "gpt-4o"
     MODEL = "llama3-70b-8192"
-    APIKEY = "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"
+    APIKEY = ""
     #############################################
     if APIKEY.startswith("gsk_"):
         if MODEL.startswith("llama"):
