@@ -1,14 +1,11 @@
-# **OptiMUS**: Optimization Modeling Using mip Solvers and large language models
+# **OptiMUS**: Optimization Modeling Using mip Solvers and large language models 
+### Original Repo: https://github.com/teshnizi/OptiMUS
 
 
-This repository contains the official implementation for the following three papers (you can use branches to access the other versions):
+This repository contains a debuged version of the "OptiMUS: Optimization Modeling Using mip Solvers and large language models" created by Ali Teshnizi et al.:
 
 
 - V0.1: [OptiMUS: Optimization Modeling Using mip Solvers and large language models](https://arxiv.org/pdf/2310.06116).
-
-- V0.2: [OptiMUS: Scalable Optimization Modeling with (MI) LP Solvers and Large Language Models](https://arxiv.org/pdf/2402.10172).
-
-- V0.3: [OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale](https://arxiv.org/abs/2407.19633)
 
 <img width="845" alt="image" src="https://github.com/user-attachments/assets/72fbbf20-32ee-4715-a2d5-819133a346ee">
 
